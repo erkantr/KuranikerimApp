@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Erkan/projeler/AndroidStudioProjects2/kuranikerimm/app/src/main/res/layout/activity_kuran.xml" value="0.2" />
+        <entry key="..\:/Erkan/projeler/AndroidStudioProjects2/kuranikerimm/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Erkan/projeler/AndroidStudioProjects2/kuranikerimm/app/src/main/res/layout/activity_nassar.xml" value="0.2" />
+        <entry key="..\:/Erkan/projeler/AndroidStudioProjects2/kuranikerimm/app/src/main/res/layout/activity_sesplayer.xml" value="0.2" />
+        <entry key="..\:/Erkan/projeler/AndroidStudioProjects2/kuranikerimm/app/src/main/res/layout/activity_videoplayer.xml" value="0.2" />
+        <entry key="..\:/Erkan/projeler/AndroidStudioProjects2/kuranikerimm/app/src/main/res/layout/anatasarim.xml" value="0.2" />
+        <entry key="..\:/Erkan/projeler/AndroidStudioProjects2/kuranikerimm/app/src/main/res/layout/app_bar_main.xml" value="0.2" />
+        <entry key="..\:/Erkan/projeler/AndroidStudioProjects2/kuranikerimm/app/src/main/res/layout/content_main.xml" value="0.2" />
+        <entry key="..\:/Erkan/projeler/AndroidStudioProjects2/kuranikerimm/app/src/main/res/layout/fragment_gallery.xml" value="0.2" />
+        <entry key="..\:/Erkan/projeler/AndroidStudioProjects2/kuranikerimm/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Erkan/projeler/AndroidStudioProjects2/kuranikerimm/app/src/main/res/layout/fragment_slideshow.xml" value="0.2" />
+        <entry key="..\:/Erkan/projeler/AndroidStudioProjects2/kuranikerimm/app/src/main/res/layout/indirilenlertasarim.xml" value="0.2" />
+        <entry key="..\:/Erkan/projeler/AndroidStudioProjects2/kuranikerimm/app/src/main/res/layout/kuranikerimfragment.xml" value="0.2" />
+        <entry key="..\:/Erkan/projeler/AndroidStudioProjects2/kuranikerimm/app/src/main/res/layout/kurantasarim.xml" value="0.2" />
+        <entry key="..\:/Erkan/projeler/AndroidStudioProjects2/kuranikerimm/app/src/main/res/layout/listetasarim.xml" value="0.2" />
+        <entry key="..\:/Erkan/projeler/AndroidStudioProjects2/kuranikerimm/app/src/main/res/layout/loading.xml" value="0.2" />
+        <entry key="..\:/Erkan/projeler/AndroidStudioProjects2/kuranikerimm/app/src/main/res/layout/nav_header_main.xml" value="0.2" />
+        <entry key="..\:/Erkan/projeler/AndroidStudioProjects2/kuranikerimm/app/src/main/res/layout/pdfviewer.xml" value="0.2" />
+        <entry key="..\:/Erkan/projeler/AndroidStudioProjects2/kuranikerimm/app/src/main/res/layout/sassa.xml" value="0.2" />
+        <entry key="..\:/Erkan/projeler/AndroidStudioProjects2/kuranikerimm/app/src/main/res/layout/ses_liste_ekrani_tasarim.xml" value="0.2" />
+        <entry key="..\:/Erkan/projeler/AndroidStudioProjects2/kuranikerimm/app/src/main/res/menu/activity_main_drawer.xml" value="0.2" />
+        <entry key="..\:/Erkan/projeler/AndroidStudioProjects2/kuranikerimm/app/src/main/res/menu/main.xml" value="0.2" />
+        <entry key="..\:/Erkan/projeler/AndroidStudioProjects2/kuranikerimm/app/src/main/res/menu/tasarim.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
